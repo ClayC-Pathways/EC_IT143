@@ -1,0 +1,30 @@
+# EC_IT143 — Deliverable 5.2: My Communities SQL Scripts
+
+**Author:** Clay C.  
+**Date:** October 4, 2025  
+**Course:** EC_IT143 — Data Analysis with SQL  
+**Assignment:** Week 5.2 — My Communities
+
+##  Overview
+
+This deliverable contains two SQL scripts, each focused on a different community dataset:
+
+- `DJClub`: A table of music clubs with genre information
+- `ShootingClub`: A table of club members with join dates
+
+Each script includes four questions and answers, formatted for clarity and tagged with author attribution.
+
+##  Files Included
+
+- `EC_IT143_W5.2_DJClub_cc.sql`
+- `EC_IT143_W5.2_ShootingClub_cc.sql`
+
+##  Learning Resources
+
+1. [SQL Server SELECT Statement Tutorial (YouTube)](https://www.youtube.com/watch?v=9Pzj7Aj25lw)
+2. [Microsoft Docs: sys.tables Reference](https://learn.microsoft.com/en-us/sql/relational-databases/system-catalog-views/sys-tables-transact-sql)
+
+##  Submission Instructions
+
+These files are part of my Canvas discussion board post for Deliverable 5.2.  
+GitHub Repo: [https://github.com/clayc/EC_IT143](https://github.com/clayc/EC_IT143)
